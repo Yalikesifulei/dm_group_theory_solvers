@@ -1,3 +1,4 @@
+// find all homomorphisms Z/nZ to Z/mZ additive groups
 #include<stdio.h>
 #include<stdlib.h>
 
