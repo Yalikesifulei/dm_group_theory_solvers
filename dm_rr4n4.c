@@ -1,3 +1,4 @@
+// find Z/nZ ring multiplicative group, factorize it by cyclic subgroup and print Cayley table for factor-group
 #include<stdio.h>
 #include<stdlib.h>
 
