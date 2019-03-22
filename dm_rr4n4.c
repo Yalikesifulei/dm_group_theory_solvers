@@ -282,7 +282,6 @@ int main(){
 	if (is_cyclic) printf("\nZ*(%i)/[%i] is cyclic\n\n", n, gen); else printf("\nZ*(%i)/[%i] is non-cyclic\n\n", n, gen);
 	
 	system("pause");
-	
 	// free memory
 	free(z_multi); free(subgroup); free(cosets_uniq);
 	for (i=0; i<z_order; i++){
